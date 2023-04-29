@@ -7,16 +7,16 @@ import {
 import { FaLinkedinIn } from "react-icons/fa";
 import { SiLeetcode } from "react-icons/si";
 
-
+ 
 function Footer() {
   return (
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Developed by Ayush Tiwari</h3>
+          <h3>Inspired by Soumyajit Behera</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Inspired by Soumyajit Behera </h3>
+          <h3>Developed by Ayush Tiwari</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
