@@ -91,7 +91,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://soumyajitblogs.vercel.app/"
+                href="https://iq.opengenus.org/author/ayush-tiwari/"
                 target="_blank"
                 rel="noreferrer"
               >
