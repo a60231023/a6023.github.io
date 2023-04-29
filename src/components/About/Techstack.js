@@ -12,7 +12,6 @@ import {
   SiExpress,
   SiHtml5,
   SiCss3,
-  SiVercel,
 } from "react-icons/si";
 
 function Techstack() {
