@@ -1,6 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
+import Particle from "../Particle";
 import nasa from "../../Assets/Projects/NASA.png";
 import url from "../../Assets/Projects/URL-SHORTNER.png";
 import chai from "../../Assets/Projects/TESTING WITH CHAI.png";
