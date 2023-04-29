@@ -19,11 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I have always wanted to learn{" "}
-              <b className="purple">how things work</b> and driven by a deep
-              curiosity about how things work, I was captivated by the inner
-              workings of the web and thus, decided to embark on a{" "}
-              <b className="purple"> journey of learning web development.</b>
+            I have always been fascinated by the mechanics behind  how things work. With a natural curiosity about the <b className="purple">inner workings of the web,</b> I have embarked on a journey to learn <b className="purple">web development.</b>
               <br />
               <br />I have a passion for{" "}
               <b className="purple">building new websites </b>, as it not only
