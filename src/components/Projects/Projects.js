@@ -1,12 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
-import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
 import nasa from "../../Assets/Projects/NASA.png";
-import suicide from "../../Assets/Projects/suicide.png";
 import url from "../../Assets/Projects/URL-SHORTNER.png";
 import chai from "../../Assets/Projects/TESTING WITH CHAI.png";
 import ecommerse from "../../Assets/Projects/ECOMMERSE.png";
